@@ -1,6 +1,8 @@
 # Check the versions of libraries
 
-# Python version
+# Python version 
+# leaving this here for demo purposes only
+# if you were getting this prod ready you would leave the imports to the seperate modules, and load only what was needed
 import sys
 print('Python: {}'.format(sys.version))
 # scipy
